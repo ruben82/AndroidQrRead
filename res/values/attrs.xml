@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="com.google.ads.AdView">
+        <attr name="backgroundColor" format="color" />
+        <attr name="primaryTextColor" format="color" />
+        <attr name="secondaryTextColor" format="color" />
+        <attr name="adSize">
+            <enum name="BANNER" value="1"/>
+            <enum name="IAB_MRECT" value="2"/>
+            <enum value="3" name="IAB_BANNER"/>
+            <enum value="4" name="IAB_LEADERBOARD"/>
+        </attr>
+        <attr name="adUnitId" format="string"/>
+        <attr format="string" name="loadAdOnCreate"/>
+    </declare-styleable>
+</resources>
+

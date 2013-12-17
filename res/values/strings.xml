@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cibo a tuo tempo</string>
+
+    <string name="download_progress">Downloading...</string>
+    <string name="ita">true</string>
+
+    <string name="no_connection_found">"Non è stata trovata alcuna connessione Internet. Controllare la connessione."</string>
+    <string name="no_supported">File ancora non supportato</string>
+    <string name="no_zip">Non puoi scaricare l\'intero file. Scegli i singoli capitoli da ascoltare</string>
+
+    <string name="menu_scrittura">Scr. del giorno</string>
+    <string name="menu_scansione">Scan QR</string>
+    <string name="menu_libreria">Libreria</string>
+    <string name="menu_close">Esci</string>
+
+    <string name="book_successfully">Prenotazione riuscita</string>
+    <string name="book_done">Prenotazione Pass Effettuata</string>
+    <string name="bookmark_picker_name">Segnalibri</string>
+    <string name="button_add_calendar">Aggiungi al calendario</string>
+    <string name="button_add_contact">Aggiungi ai contatti</string>
+    <string name="button_back">Indietro</string>
+    <string name="button_book_search">Cerca libro</string>
+    <string name="button_cancel">Annulla</string>
+    <string name="button_clipboard_empty">Appunti vuoti</string>
+    <string name="button_custom_product_search">Ricerca personalizzata</string>
+    <string name="button_dial">Componi numero</string>
+    <string name="button_done">Fatto</string>
+    <string name="button_email">Invia email</string>
+    <string name="button_get_directions">Ottieni indirizzi</string>
+    <string name="button_google_shopper">Google Shopper</string>
+    <string name="button_mms">Invia MMS</string>
+    <string name="button_ok">OK</string>
+    <string name="button_open_browser">Apri browser</string>
+    <string name="button_product_search">Cerca prodotto</string>
+    <string name="button_search_book_contents">Cerca contenuti</string>
+    <string name="button_share_app">Applicazione</string>
+    <string name="button_share_bookmark">Segnalibro</string>
+    <string name="button_share_by_email">Condividi tramite email</string>
+    <string name="button_share_by_sms">Condividi tramite SMS</string>
+    <string name="button_share_clipboard">Appunti</string>
+    <string name="button_share_contact">Contatti</string>
+    <string name="button_show_map">Mostra mappa</string>
+    <string name="button_sms">Invia SMS</string>
+    <string name="button_web_search">Ricerca web</string>
+    <string name="button_wifi">Connessione a rete</string>
+    <string name="change_password_done">Recupero eseguito. Verifica la tua email</string>
+    <string name="change_password_failed">Recupero fallito</string>
+    <string name="chiudi">Esci</string>
+    <string name="close_title">Chiusura App</string>
+    <string name="close_text">Sei sicuro di voler chiudere l\'applicazione?</string>
+    <string name="contents_contact">Info contatto</string>
+    <string name="contents_email">Indirizzo email</string>
+    <string name="contents_location">Coordinate geografiche</string>
+    <string name="contents_phone">Numero di telefono</string>
+    <string name="contents_sms">Numero SMS</string>
+    <string name="contents_text">Testo puro</string>
+    <string name="country">Paese</string>
+    <string name="coupon_not_valid">Coupon/Biglietto non valido o già utilizzato</string>
+    <string name="coupon_valid">Coupon/Biglietto Valido</string>
+    <string name="di">di</string>
+    <string name="error">Errore</string>
+    <string name="error_server">Errore: Server non raggiungibile</string>
+    <string name="error_validating">Errore durante la validazione</string>
+    <string name="history_clear_one_history_text">Cancella</string>
+    <string name="history_clear_text">Cancella cronologia</string>
+    <string name="history_email_title">Cronologia scansioni codici a barre</string>
+    <string name="history_empty">Vuoto</string>
+    <string name="history_empty_detail">Nessun scansioni di codici a barre sono stati registrati</string>
+    <string name="history_send">Invia cronologia</string>
+    <string name="history_title">Cronologia</string>
+    <string name="impostazioni">Impostazioni</string>
+    <string name="language">IT</string>
+    <string name="list_coupon">Coupon</string>
+    <string name="list_eventi">Eventi</string>
+    <string name="list_viaggi">Ticket</string>
+    <string name="login_done">Login eseguito</string>
+    <string name="login">Login</string>
+    <string name="login_failed">Login fallito. Controlla username e password</string>
+    <string name="login_welcome">Accedi!! Non perdere altre occasioni!!</string>
+    <string name="login_welcome2">Sei un privato? Accedi. Non perderti più un occasione!!             Sei un commerciante? Accedi. Pubblica il tuo Pass ora!!</string>
+    <string name="menu_about">Info</string>
+    <string name="menu_encode_mecard">Usa MECARD</string>
+    <string name="menu_encode_vcard">Usa vCard</string>
+    <string name="menu_help">Aiuto</string>
+    <string name="menu_history">Cronologia</string>
+    <string name="menu_settings">Impostazioni</string>
+    <string name="menu_share">Condividi</string>
+    <string name="msg_about">Basato sulla libreria di software libero ZXing Barcode</string>
+    <string name="msg_bulk_mode_scanned">Modalità di gruppo: codici a barre scansionati e salvati</string>
+    <string name="msg_camera_framework_bug">Spiacenti, la fotocamera Android ha riscontrato un problema. Potrebbe essere necessario riavviare il dispositivo.</string>
+    <string name="msg_default_format">Formato</string>
+    <string name="msg_default_meta">Metadati</string>
+    <string name="msg_default_mms_subject">Ciao</string>
+    <string name="msg_default_status">Posiziona un codice a barre dentro il mirino rettangolare per la scansione.</string>
+    <string name="msg_default_time">Tempo</string>
+    <string name="msg_default_type">Tipo</string>
+    <string name="msg_encode_contents_failed">Impossibile codificare un codice a barre dai dati forniti.</string>
+    <string name="msg_google_books">Google Libri</string>
+    <string name="msg_google_product">Google Shopping</string>
+    <string name="msg_google_shopper_missing">Google Shopper non è installato</string>
+    <string name="msg_install_google_shopper">Google Shopper combina la scansione dei codici a barre con prezzi locali e online, recensioni e altro senza dover aprire il browser. Vuoi provare?</string>
+    <string name="msg_intent_failed">Spiacenti, l\'applicazione richiesta non può essere avviata. Il contenuto del codice a barre può essere non valido.</string>
+    <string name="msg_redirect">Inoltra</string>
+    <string name="msg_sbc_book_not_searchable">Spiacenti, questo libro non è ricercabile.</string>
+    <string name="msg_sbc_failed">Spiacenti, la ricerca ha avuto un problema.</string>
+    <string name="msg_sbc_no_page_returned">Nessuna pagina restitiuta</string>
+    <string name="msg_sbc_page">Pagina</string>
+    <string name="msg_sbc_searching_book">Ricerca libro\u2026</string>
+    <string name="msg_sbc_snippet_unavailable">Ritaglio non disponibile</string>
+    <string name="msg_sbc_unknown_page">Pagina sconosciuta</string>
+    <string name="msg_share_explanation">Puoi condividere i dati mostrando un codice a barre sullo schermo e facendo la scansione con un altro telefono.</string>
+    <string name="msg_share_subject_line">Questo è il contenuto di un codice a barre di prova</string>
+    <string name="msg_share_text">O digitare un testo</string>
+    <string name="msg_sure">Sei sicuro?</string>
+    <string name="msg_unmount_usb">Spiacenti, la scheda SD non è accessibile.</string>
+    <string name="no_pass_booked">Non hai prenotato ancora alcun Pass</string>
+    <string name="no_offer">Non ci sono offerte in questa zona per ora, ma riprova... ne aggiungiamo di nuove ogni giorno</string>
+    <string name="offert_active">Offerta attiva</string>
+    <string name="offert_inactive">Offerta scaduta</string>
+    <string name="passbookedcode">Codice coupon/ticket prenotato: </string>
+    <string name="password">Password</string>
+    <string name="password_again">Ripeti password</string>
+    <string name="pass_booked">Coupon prenotati: </string>
+    <string name="preferences_actions_title">Quando viene trovato un codice a barre\u2026</string>
+    <string name="preferences_bulk_mode_summary">Scansiona e salva diversi codici a barre in sequenza</string>
+    <string name="preferences_bulk_mode_title">Modalità scansione di gruppo</string>
+    <string name="preferences_copy_to_clipboard_title">Copia negli appunti</string>
+    <string name="preferences_custom_product_search_summary" formatted="false">Sostituzioni: %s = contenuti, %f = formato, %t = tipo</string>
+    <string name="preferences_custom_product_search_title">URL ricerca personalizzata</string>
+    <string name="preferences_decode_1D_title">Codice a barre 1D</string>
+    <string name="preferences_decode_Data_Matrix_title">Matrice dati</string>
+    <string name="preferences_decode_QR_title">Codici QR</string>
+    <string name="preferences_front_light_summary">Migliora la scansione con poca luminosità su alcuni telefoni, ma può provocare abbagliamento. Non funziona su tutti i telefoni.</string>
+    <string name="preferences_front_light_title">Usa luce frontale</string>
+    <string name="preferences_general_title">Impostazioni generali</string>
+    <string name="preferences_name">Impostazioni</string>
+    <string name="preferences_play_beep_title">Suona</string>
+    <string name="preferences_remember_duplicates_summary">Mantieni scansioni multiple del codice a barre nella stessa Cronologia</string>
+    <string name="preferences_remember_duplicates_title">Ricorda duplicati</string>
+    <string name="preferences_result_title">Impostazioni risultato</string>
+    <string name="preferences_reverse_image_summary">Attiva solo su dispositivi con fotocamera frontale</string>
+    <string name="preferences_reverse_image_title">Immagine fotocamera invertita</string>
+    <string name="preferences_scanning_title">Durante la scansione di codici a barre, decodifica\u2026</string>
+    <string name="preferences_search_country">Cerca paese</string>
+    <string name="preferences_supplemental_summary">Prova a cercare ulteriori informazioni sul contenuto del codice a barre</string>
+    <string name="preferences_supplemental_title">Recupera altre informazioni</string>
+    <string name="preferences_vibrate_title">Vibra</string>
+    <string name="preferiti">Preferiti</string>
+    <string name="prenota">Prenota subito!!</string>
+    <string name="recupera">Recupera</string>
+    <string name="recupera_password">Recupera Password</string>
+    <string name="result_address_book">Info contatto trovata</string>
+    <string name="result_calendar">Evento calendario trovato</string>
+    <string name="result_email_address">Indirizzo email trovato</string>
+    <string name="result_geo">Coordinate geografiche trovate</string>
+    <string name="result_isbn">Libro trovato</string>
+    <string name="result_product">Prodotto trovato</string>
+    <string name="result_sms">Numero SMS trovato</string>
+    <string name="result_tel">Numero di telefono trovato</string>
+    <string name="result_text">Testo puro trovato</string>
+    <string name="result_uri">URL trovato</string>
+    <string name="result_wifi">Configurazione WLAN trovata</string>
+    <string name="save_successfully">Salvataggio riuscito</string>
+    <string name="sbc_name">Ricerca Google Book</string>
+    <string name="scan">Lettura codice</string>
+    <string name="search">Cerca</string>
+    <string name="sector">Settore</string>
+    <string name="sorry">Spiacenti...</string>
+    <string name="share_name">Condividi tramite codice a barre</string>
+    <string name="term">Termini &amp; condizioni</string>
+    <string name="ticket_booked">Biglietti prenotati: </string>
+    <string name="title_about">Scansione codice a barre v</string>
+    <string name="tryscan">Prova</string>
+    <string name="ulteriori_usi">Ulteriori usi: </string>
+    <string name="usa">Usa ora</string>
+    <string name="usato">Coupon/Biglietto già usato</string>
+    <string name="uses_remaining">Usi rimanenti: </string>
+    <string name="username">Username</string>
+    <string name="u_must_be_merchant">Per eseguire questa operazione devi effettuare l\'accesso come commerciante</string>
+    <string name="wa_name">WIFI Name</string>
+    <string name="watch">  Vedi...</string>
+    <string name="where">Dove: </string>
+    <string name="wifi_changing_network">Richiesta di connessione alla rete\u2026</string>
+    <string name="wifi_ssid_label">Nome rete</string>
+    <string name="wifi_type_label">Tipo</string>
+    <string name="internal_error">Impossibile connettersi al server: riprova più tardi</string>
+    <string name="invalid_pass_booking">Buono o biglietto non valido</string>
+    <string name="pass_already_redeemed_error">Buono o biglietto già consumato</string>
+    <string name="pass_expired_error">Buono o biglietto scaduto</string>
+    <string name="error_retrieve">Errore nel recuperare i dati</string>
+
+
+    <string name="save_title">Salvataggio</string>
+    <string name="save_text">Vuoi salvare questo file nella libreria?</string>
+    <string name="delete_title">Elimina</string>
+    <string name="delete_text">Vuoi eliminare questo file dalla libreria?</string>
+    <string name="save_done">Salvataggio del file in libreria effettuato</string>
+    <string name="delete_done">Cancellazione del file dalla libreria effettuata</string>
+    <string name="error_savin_library">Errore durante il salvataggio in libreria del file</string>
+    <string name="pdf_password">Il file necessita di una password</string>
+    <string name="pdf_invalid">Formato PDF non valido</string>
+    <string name="torre">Torre di Guardia</string>
+    <string name="svegliatevi">Svegliatevi!</string>
+    <!--    <string name="goto_page">Vai alla pagina…</string>
+   <string name="goto_page_dialog_title">Vai alla pagina</string>
+   <string name="goto_page_go_button">Vai</string>
+   <string name="rotate_page_left">Ruota a sinistra</string>
+   <string name="rotate_page_right">Ruota a destra</string>
+   <string name="find_text">Trova…</string>-->
+    <string name="find_dialog_title">Trova testo</string>
+    <string name="find_go_button">Trova</string>
+    <string name="find_cancel_button">Annulla</string>
+    <string name="clear_find_text">Pulisci testo</string>
+    <string name="choose_file">Apri…</string>
+    <string name="toggle_invert">Inverti</string>
+    <string name="set_as_home">Rendi la cartella seguente come Home</string>
+    <string name="go_home">Home</string>
+    <string name="cancel">Annulla</string>
+    <string name="searching_for">Ricerca per "%1$s"</string>
+    <string name="page_of">Pagina %1$d di %2$d</string>
+    <string name="options">Impostazioni</string>
+    <string name="zoom_animation">Bottoni di Zoom</string>
+    <string-array name="zoom_animations">
+        <item>100</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="zoom_animation_labels">
+        <item>disabilitato</item>
+        <item>sparito</item>
+        <item>quasi sparito</item>
+        <item>sbiadito</item>
+    </string-array>
+    <string name="default_zoom_animation">2</string>
+    <string name="page_animation">Numero pagina</string>
+    <string-array name="page_animations">
+        <item>100</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="page_animation_labels">
+        <item>disabilitato</item>
+        <item>sparito</item>
+        <item>quasi sparito</item>
+        <item>sbiadito</item>
+        <item>mostra sempre</item>
+    </string-array>
+    <string name="default_page_animation">2</string>
+    <string name="fade_speed">Attendi lo zoom la paginat</string>
+    <string-array name="fade_speeds">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="fade_speed_labels">
+        <item>1 secondo</item>
+        <item>2 secondi</item>
+        <item>3 secondi</item>
+        <item>4 secondi</item>
+        <item>5 secondi</item>
+        <item>6 secondi</item>
+        <item>7 secondi</item>
+    </string-array>
+    <string name="default_fade_speed">7</string>
+    <string name="invert">Inverti colori</string>
+    <string name="dirs_first">Elenca prima le cartelle</string>
+    <string name="show_extension">Mostra estensione .pdf</string>
+    <string name="orientation">Orientamento</string>
+    <string name="default_orientation">0</string>
+    <string-array name="orientation_labels">
+        <item>autoamtico</item>
+        <item>Difficile da cambiare</item>
+        <item>blocca verticale</item>
+        <item>blocca orizzontale</item>
+    </string-array>
+    <string-array name="orientations">
+        <item>0</item>
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string name="viewer">PDF Viewer</string>
+    <string name="selector">Selettore file</string>
+    <string name="fullscreen">Schermo intero</string>
+    <string name="page">Pagina</string>
+    <string name="color_mode">Modalità colore</string>
+    <string-array name="color_mode_labels">
+        <item>Normale</item>
+        <item>Invertito</item>
+        <item>Normale bianco nero</item>
+        <item>Invertito bianco nero</item>
+        <item>Nero su giallastro</item>
+        <item>Verde su Nero</item>
+        <item>Rosso su nero</item>
+    </string-array>
+    <string-array name="color_modes">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string name="default_color_mode">0</string>
+    <string name="omit_images">Salta immagine</string>
+    <string name="vertical_scroll_lock">Blocca scorrimento verticale</string>
+    <string name="vertical_scroll_lock_sub">Per scorrere orizzontalmente, devi prima muovere orizzontalemente 1/5 della larghezza del display.</string>
+    <string name="box">PDF page box type</string>
+    <string-array name="box_labels">
+        <item>ArtBox</item>
+        <item>BleedBox</item>
+        <item>CropBox</item>
+        <item>MediaBox</item>
+        <item>TrimBox</item>
+    </string-array>
+    <string-array name="boxes">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string name="default_box">2</string>
+    <string name="extra_cache">Memoria cache aggiuntiva</string>
+    <string name="extra_cache_sub">Usando la memoria cache aggiuntiva può migliorare lo scorrimento e la stabilità.</string>
+    <string-array name="extra_caches">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="extra_cache_labels">
+        <item>none</item>
+        <item>1 MB</item>
+        <item>2 MB</item>
+        <item>4 MB</item>
+        <item>6 MB</item>
+        <item>8 MB</item>
+        <item>10 MB</item>
+    </string-array>
+    <string name="default_extra_cache">0</string>
+    <string name="side_margin">Margini laterali aggiuntivi</string>
+    <string name="default_side_margin">0</string>
+    <string-array name="margins">
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="margin_labels">
+        <item>nessuno</item>
+        <item>piccolo</item>
+        <item>medio</item>
+        <item>grande</item>
+    </string-array>
+    <string name="top_margin">Spazio tra le pagine</string>
+    <string name="default_top_margin">10</string>
+    <string name="remove_from_recent">Rimuovi dai recenti</string>
+    <string name="delete">Elimina il file</string>
+    <string-array name = "double_tap_actions">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="double_tap_action_labels">
+        <item>nessuno</item>
+        <item>zoom in</item>
+        <item>zoom in o abbandona</item>
+    </string-array>
+    <string name="default_double_tap_action">2</string>
+    <string name="double_tap_action">Azione doppio tap</string>
+    <string-array name = "action_pairs">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>9</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name = "action_pair_labels">
+        <item>nessuno</item>
+        <item>display sopra/sotto</item>
+        <item>pagina sopra/sotto</item>
+        <item>pagina prec/succ</item>
+        <item>zoom 1.02X</item>
+        <item>zoom 1.05X</item>
+        <item>zoom 1.1X</item>
+        <item>zoom 1.2X</item>
+        <item>zoom 1.414X</item>
+        <item>zoom 2X</item>
+        <item>Display sopra/sotto invertito</item>
+        <item>page sopra/sotto invertito</item>
+        <item>page prec/succ invertito</item>
+    </string-array>
+    <string name="volume_pair">Volume -/+ key actions</string>
+    <string name="up_down_pair">Up/Down key actions</string>
+    <string name="left_right_pair">Left/Right key actions</string>
+    <string name="zoom_pair">Zoom button actions</string>
+    <string name="long_zoom_pair">Long press zoom button actions</string>
+    <string name="right_up_down_pair">Nook Touch right up/down key actions</string>
+    <string name="top_bottom_tap_pair">Action for top/bottom tap</string>
+    <string name="default_volume_pair">1</string>
+    <string name="default_up_down_pair">1</string>
+    <string name="default_left_right_pair">2</string>
+    <string name="default_zoom_pair">7</string>
+    <string name="default_long_zoom_pair">8</string>
+    <string name="default_right_up_down_pair">1</string>
+    <string name="default_top_bottom_tap_pair">0</string>
+    <string name="hw">Hardware Specific Settings</string>
+    <string name="eink">E-ink optimizations</string>
+    <string name="nook2">Nook2 fast e-ink refresh</string>
+    <string name="disabled">Disabilita</string>
+    <string name="keep_on">Mantieni il display attivo mentro leggi</string>
+    <string name="show_zoom_on_scroll">Mosta zoom quando scorri</string>
+    <string name="history">Mostra file recenti</string>
+    <string name="table_of_contents">Tabella dei contenuti</string>
+    <string name="toc_dialog_title">Tabella dei contenuti</string>
+    <string name="close">Chiudi</string>
+    <string name="text_reflow">Riflusso testo</string>
+    <string name="documents">Documenti</string>
+    <string name="mappa">Io sono qui</string>
+    <string name="notify">Notifiche</string>
+    <string name="library">Libreria</string>
+    <string name="prev">prec</string>
+    <string name="next">succ</string>
+    <string name="hide">nascondi</string>
+    <string name="nazioni">Nazioni</string>
+    <string name="preferite">Preferite</string>
+    <string name="contatti">Contatti</string>
+    <string name="area_geogr">Area Geografica</string>
+    <string name="here">Sei qui</string>
+    <string name="oggetto">Oggetto</string>
+    <string name="messaggio">Messaggio</string>
+    <string name="send">Invia</string>
+    <string name="save_progress">Salvataggio in corso...</string>
+    <string name="delete_progress">Cancellazione in corso...</string>
+    <string name="mail_sent">Mail inviata con successo</string>
+    <string name="loading_file_progress">Caricamento dalla cache in corso...</string>
+    <string name="favorite_set">Nazione correttamente segnalata come preferita</string>
+    <string name="favorite_unset">Nazione correttamente segnalata come non preferita</string>
+    <string name="favorite_mandatory_transfert">Non puoi eliminare questa nazione dai preferiti perché c\'è una trasferta in programma</string>
+    <string name="error_document">Il documento potrebbe non essere disponibile o non presente</string>
+    <string name="save">Salva</string>
+    <string name="elimina">Elimina</string>
+    <string name="no_result">Nessun risultato</string>
+    <string name="no_result_nations">Nessuna nazione\ndisponibile per\nl\'utente corrente</string>
+    <string name="no_result_network">Nessun risultato:\nconnessione\nnon disponibile</string>
+    <string name="no_result_documents">Nessun documento\npresente</string>
+    <string name="no_network">Rete non disponibile</string>
+    <string name="login_not_correct">Credenziali non corrette</string>
+    <string name="no_user_saved">Devi accedere almeno una volta in modalità online per visualizzare i contenuti offline</string>
+    <string name="auth_problem">Problemi durante l\'autenticazione: controllare username e password</string>
+    <string name="gps_not_enabled">Il GPS non è abilitato, vuoi attivarlo?</string>
+
+    <string name="share">Condividi</string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+              xmlns:food="http://schemas.android.com/apk/res/com.application.food"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <com.application.food.component.ActionBar
+            android:id="@+id/title_bar"
+            android:layout_height="40dp"
+            android:layout_width="match_parent"/>
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:orientation="vertical"
+                  android:id="@+id/webview_layout"
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent" >
+        <WebView
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/webview"
+                android:layout_gravity="center_horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                />
+       <!-- <LinearLayout
+                android:orientation="vertical"
+                android:gravity="bottom"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+            <com.google.ads.AdView
+                    android:id="@+id/addmain"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="bottom|center_horizontal"
+                    android:layout_gravity="bottom"
+                    ads:adSize="BANNER"
+                    android:layout_alignParentBottom="true"
+                    ads:loadAdOnCreate="true"
+                    ads:adUnitId="a151b5f7653d090"
+                    food:backgroundColor="#000000"
+                    food:primaryTextColor="#FFFFFF"
+                    food:secondaryTextColor="#CCCCCC"/>
+        </LinearLayout>-->
+    </FrameLayout>
+</LinearLayout>

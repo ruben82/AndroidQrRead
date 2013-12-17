@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- LAYOUT PER SMARTPHONE -->
+
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/splash_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/white"
+        android:gravity="center_horizontal"
+        android:paddingTop="20dp">
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_margin="10dp"
+                  android:background="@color/title_background">
+    <TextView android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:gravity="center_horizontal"
+              android:text="@string/app_name"
+              android:textColor="#ffffff"
+              android:textSize="24dp"
+              android:textStyle="bold"
+              android:layout_margin="10dp"/>
+    </LinearLayout>
+    <ImageView android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_marginTop="50dp"
+               android:layout_gravity="center_vertical|center_horizontal"
+               android:src="@drawable/bibbia"/>
+    <ProgressBar
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_margin="10dp"
+            android:progressDrawable="@color/title_background"/>
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/detailCop"
+              android:layout_width="250dp"
+              android:layout_height="wrap_content"
+              android:layout_gravity="center_horizontal"
+              android:paddingTop="5dp"
+              android:padding="8dp"
+              android:textColor="#9d5100"
+              android:clickable="true"
+              android:singleLine="true"
+              android:ellipsize="marquee"
+              android:text="© 2012 Ruben Rocco De Luca. All rights reserved."
+              android:textSize="12sp" />
+</LinearLayout>

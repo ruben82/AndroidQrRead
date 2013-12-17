@@ -1,0 +1,60 @@
+<resources>
+        <color name="background_light" >#E0E0E0</color>
+        <color name="background_dark" >#3D3D3D</color>
+        <color name="titlebackgroundcolor">#010101</color>
+        <color name="titletextcolor">#FFFFFF</color>
+        <color name="white">#FFFFFF</color>
+        <color name="black">#FF010101</color>
+        <color name="darkBlue">#001556</color>
+        <color name="lightBlue">#a3ecf5</color>
+        <color name="salmone">#FF6677</color>
+        <color name="rossoporpora">#700316</color>
+        <color name="rosso">#FF0000</color>
+        <color name="grey">#f8f8f8</color>
+        <color name="green">#00FF00</color>
+        <color name="bluewt">#799fcc</color>
+
+        <color name="contents_text">#ff000000</color>
+        <color name="encode_view">#ffffffff</color>
+        <color name="help_button_view">#ffcccccc</color>
+        <color name="help_view">#ff404040</color>
+        <color name="possible_result_points">#c0ffff00</color>
+        <color name="result_image_border">#ffffffff</color>
+        <color name="result_minor_text">#ffc0c0c0</color>
+        <color name="result_points">#c000ff00</color>
+        <color name="result_text">#ffffffff</color>
+        <color name="result_view">#b0000000</color>
+        <color name="sbc_header_text">#ff808080</color>
+        <color name="sbc_header_view">#ffffffff</color>
+        <color name="sbc_list_item">#fffff0e0</color>
+        <color name="sbc_layout_view">#ffffffff</color>
+        <color name="sbc_page_number_text">#ff000000</color>
+        <color name="sbc_snippet_text">#ff4b4b4b</color>
+        <color name="share_text">#ff000000</color>
+        <color name="status_view">#50000000</color>
+        <color name="status_text">#ffffffff</color>
+        <color name="transparent">#00000000</color>
+        <color name="viewfinder_frame">#ff000000</color>
+        <color name="viewfinder_laser">#ffff0000</color>
+        <color name="viewfinder_mask">#60000000</color>
+
+        <color name="title_background">#d6ae8c</color>
+
+
+        <color name="vpi__background_holo_dark">#ff000000</color>
+        <color name="vpi__background_holo_light">#fff3f3f3</color>
+        <color name="vpi__bright_foreground_holo_dark">@color/vpi__background_holo_light</color>
+        <color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_dark</color>
+        <color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+        <color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+        <color name="vpi__bright_foreground_inverse_holo_dark">@color/vpi__bright_foreground_holo_light</color>
+        <color name="vpi__bright_foreground_inverse_holo_light">@color/vpi__bright_foreground_holo_dark</color>
+
+
+        <color name="actionbar_separator">#8B1A1A</color>
+        <color name="actionbar_title">#FFFFFF</color>
+        <color name="actionbar_background_start">#8B1A1A</color>
+        <color name="actionbar_background_end">#CD2626</color>
+        <color name="actionbar_background_item_pressed_start">#FF7F00</color>
+        <color name="actionbar_background_item_pressed_end">#EE7600</color>
+</resources>
